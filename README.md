@@ -1,25 +1,25 @@
-# React Bootstrap Extender
+# JavaScript Library Template
 
-React Bootstrap Extender is a library that extends [react-bootstrap](https://react-bootstrap.github.io/) and provides coding support.
+This repository is a template for JavaScript Library.
 
-## SB
+## Components
 
-You can see components with StoryBook. [See](https://ikepu-tp.github.io/react-bootstrap-extender/sb-docs/)
+You can see components with StoryBook..
 
 ## How to use
 
 ### Installation
 
 ```bash
-npm install @ikepu-tp/react-bootstrap-extender
+npm install 
 ```
 
 ## Contributing
 
 We welcome contributions to the project! You can get involved through the following ways:
 
-[Issue](https://github.com/ikepu-tp/react-bootstrap-extender/issues): Use for bug reports, feature suggestions, and more.
-[Pull Requests](https://github.com/ikepu-tp/react-bootstrap-extender/pulls): We encourage code contributions for new features and bug fixes.
+[Issue](./issues): Use for bug reports, feature suggestions, and more.
+[Pull Requests](./pulls): We encourage code contributions for new features and bug fixes.
 
 ## License
 
