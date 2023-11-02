@@ -38,6 +38,8 @@ jobs:
           git stash -u
           git fetch --prune
           git checkout -b gh-pages remotes/origin/gh-pages
+          mkdir docs -p
+          touch ./docs/.nojekyll
           rm -rf ./docs
           git add ./docs
           git commit -m "rm sb"
